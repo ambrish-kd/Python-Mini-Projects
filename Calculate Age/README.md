@@ -28,4 +28,4 @@ Ram's age is 21 years or 260 months or 7885 days
 
 ## Author Name
 
-[@ambrish_kd](https://github.com/ambrish-kd)
+[@ambrish-kd](https://github.com/ambrish-kd)
