@@ -1,6 +1,6 @@
-# Calculate Age
+# Calendar
 
-This script prints 12 months calendar of input year between 1 and 9999.
+This script prints a 12-month calendar of input years between 1 and 9999.
 
 ## Prerequisites
 
