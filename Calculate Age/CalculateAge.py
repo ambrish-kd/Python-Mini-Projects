@@ -20,7 +20,6 @@ def leapYear(year):
         return False
 
 # Starting Point:-
-
 name = input("\nInput your name: ")
 age = input("\nInput your age: ")
 localtime = time.localtime(time.time())
